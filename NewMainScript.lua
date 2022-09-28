@@ -1,3 +1,7 @@
+if game.PlaceId == 314927855 then
+
+print("Pillow Fight Simulator GUI V1.0 | Can be buggy.")	
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
 local Window = Library.CreateLib("Pillow Fight Simulator GUI v1.0", "BloodTheme")
