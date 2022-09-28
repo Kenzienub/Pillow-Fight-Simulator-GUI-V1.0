@@ -1,5 +1,3 @@
-print("Pillow Fight Simulator GUI V1.0 Executed")
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
 local Window = Library.CreateLib("Pillow Fight Simulator GUI v1.0", "BloodTheme")
