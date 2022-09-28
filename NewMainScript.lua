@@ -1,4 +1,3 @@
-if game.PlaceId == 314927855 then
 print("Pillow Fight Simulator GUI V1.0 Executed")
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
